@@ -30,8 +30,8 @@ Eurorack 4HP simple voltage control amplifier using V13700
 
 |Name|Description|
 |:--|:--|
-|Freq|Frequency|
-|Reso|Resonance|
+|Bias|CV offset about 0V at 12o'clock position|
+|Gain|Adjustment for distortion depending on CV input|
 |CV1|CV1 Modulation Depth|
 |CV2|CV2 Modulation Depth|
 
