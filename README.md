@@ -8,8 +8,8 @@ Eurorack 4HP simple voltage control amplifier using V13700
 
 |Use Voltage|Current consumption|
 |:--|:--|
-|+12V|-|
-|-12V|-|
+|+12V|3mA|
+|-12V|3mA|
 
 ### Input
 
