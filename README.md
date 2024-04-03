@@ -16,15 +16,14 @@ Eurorack 4HP simple voltage control amplifier using V13700
 |Name|Description|
 |:--|:--|
 |IN||
-|CV1||
-|CV2||
+|CV1|Gain Modulation Depth 1|
+|CV2|Gain Modulation Depth 2|
 
 ### Output
 
 |Name|Description|
 |:--|:--|
-|OUT||
-
+|OUT|DC Coupling|
 
 ### Controller
 
@@ -32,11 +31,11 @@ Eurorack 4HP simple voltage control amplifier using V13700
 |:--|:--|
 |Bias|CV offset about 0V at 12o'clock position|
 |Gain|Adjustment for distortion depending on CV input|
-|CV1|CV1 Modulation Depth|
-|CV2|CV2 Modulation Depth|
+|CV1|Gain Modulation Depth 1|
+|CV2|Gain Modulation Depth 2|
 
 ## Image
-
+![img](https://marksard.github.io/assets/photos/20231214_IMGP8497.jpg)
 
 ## Schematic
 
